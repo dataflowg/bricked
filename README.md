@@ -13,13 +13,14 @@ This repository contains build instructions, parts lists, LDraw models, and POV-
 
 ## License
 [![License: CC BY-NC-SA 4.0](https://licensebuttons.net/l/by-nc-sa/4.0/80x15.png)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+
 All works are licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
 
 ## Tools Used
-[LEGO Digital Designer](https://www.lego.com/en-us/ldd) (Initial prototype models, can export to LDraw)
-[LDraw](https://www.ldraw.org/help/getting-started.html) (all-in-one-installer includes LDView, LDCad, and POV-Ray)
-[FreeCAD](https://www.freecadweb.org/) (for converting NI's CAD models to POV-Ray)
-[Web Lic](http://bugeyedmonkeys.com/lic/) (for generating instructions)
+* [LEGO Digital Designer](https://www.lego.com/en-us/ldd) (Initial prototype models, can export to LDraw)
+* [LDraw](https://www.ldraw.org/help/getting-started.html) (all-in-one-installer includes LDView, LDCad, and POV-Ray)
+* [FreeCAD](https://www.freecadweb.org/) (for converting NI's CAD models to POV-Ray)
+* [Web Lic](http://bugeyedmonkeys.com/lic/) (for generating instructions)
 
 ## Installation
 Install LDraw using the All-In-One installer, making sure to install LDraw, LDView, LDCad, POV-Ray, and the LGEO models for POV-Ray.

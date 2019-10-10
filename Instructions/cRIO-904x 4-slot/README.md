@@ -9,7 +9,7 @@ Part Image | Part Number | Part Color (Alt Name) | Quantity | Description
 -----------|-------------|-----------------------|----------|------------
 ![15573](./Images/15573.png "15573") | 15573 | Medium Stone Grey | 8 | Plate 1 x 2 with Groove with 1 Centre Stud, without Understud
 ![2357](./Images/2357.png "2357") | 2357 | Dark Stone Grey | 4 | Brick 2 x 2 Corner
-![2412b](./Images/2412b_002.png "2412b") | 2412b | Medium Stone Grey | 2 | Brick 2 x 2 Corner
+![2412b](./Images/2412b_002.png "2412b") | 2412b | Medium Stone Grey | 2 | Tile 1 x 2 Grille with Groove
 ![2412b](./Images/2412b.png "2412b") | 2412b | Dark Stone Grey | 16 | Tile 1 x 2 Grille with Groove
 ![2420](./Images/2420.png "2420") | 2420 | Dark Stone Grey | 16 | Plate 2 x 2 Corner
 ![2431](./Images/2431_003.png "2431") | 2431 | Medium Stone Grey | 5 | Tile 1 x 4 with Groove

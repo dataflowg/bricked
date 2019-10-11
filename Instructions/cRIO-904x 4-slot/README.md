@@ -2,7 +2,7 @@
 
 ![cRIO](./Images/cRIO_904x_4-slot.png "cRIO")
 
-Parts list for cRIO-904x 4-slot (385 pieces). Parts list is also available as a [wishlist on BrickOwl](https://www.brickowl.com/wishlist/view/Dataflow_G/crio-904x-4-slot-controller).
+Parts list for cRIO-904x 4-slot (385 pieces). Parts list is also available as a [wishlist on BrickOwl](https://www.brickowl.com/wishlist/view/Dataflow_G/crio-904x-4-slot-controller), and as a [BrickLink Want List](./cRIO-904x%204-slot%20(BrickLink%20Want%20List).xml?raw=true).
 
 ## Parts List
 Part Image | Part Number | Part Color (Alt Name) | Quantity | Description

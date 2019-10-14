@@ -5,7 +5,9 @@
 Parts list for cRIO-904x 4-slot (385 pieces). Parts list is also available as a [wishlist on BrickOwl](https://www.brickowl.com/wishlist/view/Dataflow_G/crio-904x-4-slot-controller), and as a [BrickLink Want List](./cRIO-904x%204-slot%20(BrickLink%20Want%20List).xml?raw=true).
 
 ## Parts List
-Part Image | Part Number | Part Color (Alt Name) | Quantity | Description
+If you're interested in purchasing bricks, have a look at [the buying guide](../../README.md#purchasing-bricks) on tips for getting the best price.
+
+Part Image | Part Number | Part Color | Quantity | Description
 -----------|-------------|-----------------------|----------|------------
 ![15573](./Images/15573.png "15573") | 15573 | Medium Stone Grey | 8 | Plate 1 x 2 with Groove with 1 Centre Stud, without Understud
 ![2357](./Images/2357.png "2357") | 2357 | Dark Stone Grey | 4 | Brick 2 x 2 Corner

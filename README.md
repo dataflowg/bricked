@@ -14,7 +14,17 @@ This repository contains build instructions, parts lists, and LDraw models of a 
 ## Purchasing Bricks
 The easiest way to source all the bricks for a model is through an online market such as [BrickOwl](https://www.brickowl.com/) or [BrickLink](https://www.bricklink.com/v2/main.page). That said when it comes to purchasing, the sites' algorithms for optimizing parts lists against store stock don't always give the cheapest option. See below for some tips on minimising cost.
 
-As a reference, the cost for the cRIO model comes out at a little over $40 from both BrickOwl and BrickLink.
+As price reference, the cost for the cRIO model comes out at a little over $40 from both BrickOwl and BrickLink.
+
+#### Brick color alternate names
+Some stores list colors with their official LEGO name, some with their alternate name, and some with a mix of both. The most common differences are listed below. Items in **bold** are the color names used in the parts lists in this repository.
+
+LEGO Name | Alternate Name
+----------|---------------
+**Medium Stone Grey** | Light Bluish Gray
+**Dark Stone Grey** | Dark Bluish Gray
+Earth Blue | **Dark Blue**
+Cool Silver | **Metallic Silver**
 
 ### BrickOwl
 1. After creating an account, go to the wishlist link, then hit the green `Buy Wishlist` button.

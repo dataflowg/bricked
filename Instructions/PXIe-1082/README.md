@@ -7,13 +7,6 @@ Parts list for PXIe-1082 (817 pieces). Parts list is also available as a [wishli
 ## Parts List
 If you're interested in purchasing bricks, have a look at [the buying guide](../../README.md#purchasing-bricks) on tips for getting the best price. This model can be bought for around $90-$100.
 
-Item No: 2436a -> 2436b
-Item No: 4032a -> 4032b
-Item No: 59900 -> 4589b
-Item No: 6141 -> 4073
-Item No: 6141 -> 4073
-Item No: 6141 -> 4073
-
 Part Image | Part Number | Part Color | Quantity | Description
 -----------|-------------|-----------------------|----------|------------
 ![11476](./Images/11476_black.png "11476") | 11476 | Black | 2 | Plate 1 x 2 with Clip Horizontal on Side (Thick C-Clip)
@@ -29,7 +22,7 @@ Part Image | Part Number | Part Color | Quantity | Description
 ![2420](./Images/2420_tan.png "2420") | 2420 | Tan | 1 | Plate 2 x 2 Corner
 ![2431](./Images/2431_white.png "2431") | 2431 | White | 1 | Tile 1 x 4 with Groove
 ![2431](./Images/2431_lbgrey.png "2431") | 2431 | Medium Stone Grey | 8 | Tile 1 x 4 with Groove
-![2436a](./Images/2436a_lbgrey.png "2436a") | 2436a | Medium Stone Grey | 7 | Bracket 1 x 2 - 1 x 4 with Square Corners
+![2436b](./Images/2436b_lbgrey.png "2436b") | 2436b | Medium Stone Grey | 7 | Bracket 1 x 2 - 1 x 4 with Rounded Corners
 ![2445](./Images/2445_white.png "2445") | 2445 | White | 2 | Plate 2 x 12
 ![25214](./Images/25214_black.png "25214") | 25214 | Black | 4 | Cylinder 2 x 2 Elbow with Axle Holes
 ![27263](./Images/27263_lbgrey.png "27263") | 27263 | Medium Stone Grey | 2 | Tile 2 x 2 Corner without Corner
@@ -150,4 +143,4 @@ Part Image | Part Number | Part Color | Quantity | Description
 ![98138](./Images/98138_black.png "98138") | 98138 | Black | 1 | Tile 1 x 1 Round with Groove
 ![98138](./Images/98138_white.png "98138") | 98138 | White | 2 | Tile 1 x 1 Round with Groove
 
-Part images provided by [Peeron](http://peeron.com/).
+Part images provided by [Peeron](http://peeron.com/) and [BrickLink](https://www.bricklink.com/).

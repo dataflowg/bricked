@@ -5,7 +5,7 @@
 Parts list for cRIO-904x 4-slot (385 pieces). Parts list is also available as a [wishlist on BrickOwl](https://www.brickowl.com/wishlist/view/Dataflow_G/crio-904x-4-slot-controller), and as a [BrickLink Want List](./cRIO-904x%204-slot%20(BrickLink%20Want%20List).xml?raw=true).
 
 ## Parts List
-If you're interested in purchasing bricks, have a look at [the buying guide](../../README.md#purchasing-bricks) on tips for getting the best price.
+If you're interested in purchasing bricks, have a look at [the buying guide](../../README.md#purchasing-bricks) on tips for getting the best price. This model can be bought for around $40-$50.
 
 Part Image | Part Number | Part Color | Quantity | Description
 -----------|-------------|-----------------------|----------|------------
